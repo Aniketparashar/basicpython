@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="12e7b7f3-3a8b-496e-9d4b-2412723074e9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="untitled" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VXG1qSC6mDme6KgiE5Di1cJ8a3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Python" />
+  </component>
+  <component name="RunManager" selected="Python.gui7">
+    <configuration name="gui10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/gui10.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="gui5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gui5" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="gui6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gui6.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="gui7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gui7.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="gui8" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gui8.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.gui7" />
+        <item itemvalue="Python.gui10" />
+        <item itemvalue="Python.gui8" />
+        <item itemvalue="Python.gui6" />
+        <item itemvalue="Python.gui5" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="12e7b7f3-3a8b-496e-9d4b-2412723074e9" name="Default Changelist" comment="" />
+      <created>1577391815391</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577391815391</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="180" y="41" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577391993094">
+      <screen x="65" y="24" width="1301" height="744" />
+    </state>
+    <state x="180" y="41" key="#com.intellij.execution.impl.EditConfigurationsDialog/65.24.1301.744@65.24.1301.744" timestamp="1577391993094" />
+    <state x="435" y="188" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1577402165105">
+      <screen x="65" y="24" width="1301" height="744" />
+    </state>
+    <state x="435" y="188" key="#com.intellij.fileTypes.FileTypeChooser/65.24.1301.744@65.24.1301.744" timestamp="1577402165105" />
+    <state width="1263" height="166" key="GridCell.Tab.0.bottom" timestamp="1577573925737">
+      <screen x="65" y="24" width="1301" height="744" />
+    </state>
+    <state width="1263" height="166" key="GridCell.Tab.0.bottom/65.24.1301.744@65.24.1301.744" timestamp="1577573925737" />
+    <state width="1263" height="166" key="GridCell.Tab.0.center" timestamp="1577573925734">
+      <screen x="65" y="24" width="1301" height="744" />
+    </state>
+    <state width="1263" height="166" key="GridCell.Tab.0.center/65.24.1301.744@65.24.1301.744" timestamp="1577573925734" />
+    <state width="1263" height="166" key="GridCell.Tab.0.left" timestamp="1577573925732">
+      <screen x="65" y="24" width="1301" height="744" />
+    </state>
+    <state width="1263" height="166" key="GridCell.Tab.0.left/65.24.1301.744@65.24.1301.744" timestamp="1577573925732" />
+    <state width="1263" height="166" key="GridCell.Tab.0.right" timestamp="1577573925735">
+      <screen x="65" y="24" width="1301" height="744" />
+    </state>
+    <state width="1263" height="166" key="GridCell.Tab.0.right/65.24.1301.744@65.24.1301.744" timestamp="1577573925735" />
+    <state width="1278" height="240" key="GridCell.Tab.1.bottom" timestamp="1577402253518">
+      <screen x="65" y="24" width="1301" height="744" />
+    </state>
+    <state width="1278" height="240" key="GridCell.Tab.1.bottom/65.24.1301.744@65.24.1301.744" timestamp="1577402253518" />
+    <state width="1278" height="240" key="GridCell.Tab.1.center" timestamp="1577402253504">
+      <screen x="65" y="24" width="1301" height="744" />
+    </state>
+    <state width="1278" height="240" key="GridCell.Tab.1.center/65.24.1301.744@65.24.1301.744" timestamp="1577402253504" />
+    <state width="1278" height="240" key="GridCell.Tab.1.left" timestamp="1577402253493">
+      <screen x="65" y="24" width="1301" height="744" />
+    </state>
+    <state width="1278" height="240" key="GridCell.Tab.1.left/65.24.1301.744@65.24.1301.744" timestamp="1577402253493" />
+    <state width="1278" height="240" key="GridCell.Tab.1.right" timestamp="1577402253512">
+      <screen x="65" y="24" width="1301" height="744" />
+    </state>
+    <state width="1278" height="240" key="GridCell.Tab.1.right/65.24.1301.744@65.24.1301.744" timestamp="1577402253512" />
+    <state x="209" y="24" key="SettingsEditor" timestamp="1577392728188">
+      <screen x="65" y="24" width="1301" height="744" />
+    </state>
+    <state x="209" y="24" key="SettingsEditor/65.24.1301.744@65.24.1301.744" timestamp="1577392728188" />
+    <state x="378" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1577471262598">
+      <screen x="65" y="24" width="1301" height="744" />
+    </state>
+    <state x="378" y="225" key="com.intellij.ide.util.TipDialog/65.24.1301.744@65.24.1301.744" timestamp="1577471262598" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/gui1.py</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
